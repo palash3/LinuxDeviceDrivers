@@ -1,0 +1,3 @@
+This driver is just a kernel memory which would be available in /dev heiarchy.
+
+No semaphores or mutex are used.
